@@ -23,3 +23,5 @@ Learn the fundamentals. Build practical tools. Document the process. Understand 
 *Currently exploring cybersecurity, one experiment at a time.*
 
 First pull request merged. More experiments coming soon.
+
+Learning by building, one experiment at a time.
